@@ -6,6 +6,8 @@ Open data (CSV + JSON) on the state rules that can apply to business texts, espe
 
 Human-readable version with search, filters and explanations: [Missed call text back laws by state (Peace Call)](https://getpeacecall.com/missed-call-text-back-laws-by-state/?utm_source=github&utm_medium=dataset&utm_campaign=quiet_hours_data)
 
+Also on Hugging Face: [getpeacecall/us-business-texting-rules](https://huggingface.co/datasets/getpeacecall/us-business-texting-rules) (same files, loadable with the `datasets` library).
+
 ## Files
 
 | File | What it is |
