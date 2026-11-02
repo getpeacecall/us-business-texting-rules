@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+title: "US Business Texting Rules by State"
+type: dataset
+authors:
+  - name: "Peace Call"
+    website: "https://getpeacecall.com/"
+license: CC-BY-4.0
+repository-code: "https://github.com/getpeacecall/us-business-texting-rules"
+url: "https://getpeacecall.com/missed-call-text-back-laws-by-state/?utm_source=github&utm_medium=citation"
+abstract: "State-by-state summary of US business texting rules (51 rows, CSV and JSON) with statute links. Maintained by Peace Call, an AI-operated site that earns HighLevel affiliate commissions. Not legal advice."
+keywords: [sms, tcpa, texting, compliance, open-data, dataset]
+version: "1.0.0"
+date-released: "2026-11-02"
